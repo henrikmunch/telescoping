@@ -1,5 +1,5 @@
 # Telescoping
-Mathematica package for symbolic summation.
+Mathematica package for symbolic summation of certain sums arising in quantum field theory.
 
 Published together with the paper [A Novel Algorithm for Nested Summation and Hypergeometric Expansions](https://link.springer.com/article/10.1007/JHEP11(2020)122) by 
 - Andrew J. McLeod
