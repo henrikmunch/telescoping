@@ -7,7 +7,7 @@ Published together with the paper [A Novel Algorithm for Nested Summation and Hy
 - Georgios Papathanasiou
 - Matt von Hippel
 
-`Telescoping` code requires loading [HarmonicSums](https://risc.jku.at/sw/harmonicsums/) by Jakob Ablinger, see
+`Telescoping.wl` code requires loading [HarmonicSums](https://risc.jku.at/sw/harmonicsums/) by Jakob Ablinger, see
 
     J. Ablinger. A Computer Algebra Toolbox for Harmonic Sums Related to Particle Physics. Johannes Kepler University. Diploma Thesis. February 2009. arXiv:1011.1176 [math-ph].
     J. Ablinger. Computer Algebra Algorithms for Special Functions in Particle Physics. Johannes Kepler University. PhD Thesis. April 2012.
